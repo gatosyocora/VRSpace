@@ -28,7 +28,7 @@ OculusTouchによる操作
 
 ## クレジット
 
-*uDesktopDuplication
+* uDesktopDuplication
 The MIT License (MIT)
 
 Copyright (c) 2016 hecomi
